@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
- <a href="[https://soumyadeep2001.netlify.app/]" target="blank">
+ <a href="https://soumyadeep2001.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Soumyadeep" />
  </a>
- <a href="[https://www.linkedin.com/in/soumyadeep-ghosh-%F0%9F%87%AE%F0%9F%87%B3-3a636b203/?originalSubdomain=in]" target="_blank">
+ <a href="https://www.linkedin.com/in/soumyadeep-ghosh-%F0%9F%87%AE%F0%9F%87%B3-3a636b203/?originalSubdomain=in" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Soumyadeep"/>
  </a>
 
